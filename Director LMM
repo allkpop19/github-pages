@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Director</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Director del LMM</h1>
+    <p>Esta persona de aquí es el director del Liceo Manuel Montt</p>
+    <a href="https://www.liceomanuelmontt.cl/equipo-directivo/" target="_blank">
+        <img src="https://www.liceomanuelmontt.cl/wp-content/uploads/2024/08/Diapositiva1.jpg" alt="Aquiles Vasquez">
+    </a>
+    <script>
+        console.log('Gracias por visitar mi pagina web, y ver la imagen de mi Director.');
+        console.log('espero te haya servido el enlace que esta en la imagen')
+        console.log('ATT: Kevin Carrera 3F 2025')
+    </script>
+</body>
+</html>
